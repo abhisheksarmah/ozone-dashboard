@@ -1,5 +1,7 @@
 # Ozone dashboard
 
+Created by [Ozone Team](https://github.com/abhisheksarmah/ozone-dashboard/#readme). Built with [Tailwindcss](https://tailwindcss.com/) and [VueJs](https://v3.vuejs.org/). Inspired by [codepen](https://codepen.io/mithicher/pen/oNXPwdy).
+
 ## Project setup
 
 ```
